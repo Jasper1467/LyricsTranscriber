@@ -1,0 +1,9 @@
+{
+    "api_key": "PLACE KEY HERE",
+	"chunk": "1024",
+	"rate": "16000",
+	"channels": "1",
+	"engine": "davinci",
+	"language": "en",
+	"max_tokens": "100"
+}
